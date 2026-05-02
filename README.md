@@ -5,6 +5,7 @@ Simple study tracker website using HTML and CSS
 This is a simple study tracker website made using HTML and CSS.
 
 I created this project in Semester 1 while learning web development basics. It helps to keep track of subjects, study progress, and a basic topper list.
+![image alt](https://github.com/BhavsarPoonam1409/simple-study-tracker/blob/2bd64482e4fceb5f116e39d08d99575a356a5890/Screenshot%202026-05-02%20175847.png)
 
 ## Features
 - Subjects list
